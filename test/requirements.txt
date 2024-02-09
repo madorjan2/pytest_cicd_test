@@ -1,0 +1,9 @@
+selenium
+pytest 
+allure-pytest
+Faker
+mysql
+mysql-connector-python
+mysql-client
+numpy
+pillow
