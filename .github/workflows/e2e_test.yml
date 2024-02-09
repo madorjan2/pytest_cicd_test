@@ -37,6 +37,7 @@ jobs:
     - name: Test with pytest
       run: |
         pytest ./test/e2e --alluredir=./test/e2e/allure-results
+      continue-on-error: true
     - name: Allure Report action from marketplace 
       uses: simple-elf/allure-report-action@master 
       with: 

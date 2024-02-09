@@ -1,5 +1,5 @@
-from libs.registration_page.pom import RegistrationPage
-from libs.registration_page.user import User
+from ..registration_page.pom import RegistrationPage
+from ..registration_page.user import User
 from ..basics.docs_classes import TestStep
 
 def fill_out_form(page: RegistrationPage, user: User) -> TestStep:

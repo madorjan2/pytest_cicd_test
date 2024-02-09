@@ -1,7 +1,7 @@
 import random
 from faker import Faker
 
-from libs.basics.sql_db import Query
+from ..basics.sql_db import Query
 
 # fake = Faker(locale='hu_HU')
 fake = Faker()
