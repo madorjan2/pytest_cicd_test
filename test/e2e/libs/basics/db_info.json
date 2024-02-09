@@ -1,7 +1,0 @@
-{
-  "username" : "moovsmartadmin",
-  "password" : "moovsmartadmin123",
-  "host" : "aws-moovsmart.czfrr9vqlsem.eu-central-1.rds.amazonaws.com",
-  "port" : 3306,
-  "database" : "moovsmart"
-}
